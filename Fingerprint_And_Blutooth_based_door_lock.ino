@@ -1,9 +1,5 @@
-//Prateek
-//wwww.prateeks.in
-//https://www.youtube.com/c/JustDoElectronics/videos
-
 int value1;
-#define relay 13
+#define relay 4
 const int buzzer = 7; 
 void setup()
 {
